@@ -30,4 +30,4 @@ This Simple Weather App provides users with real-time weather data and future fo
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/simple-weather-app-kotlin.git
+   https://github.com/hrutiknaik11/Simple_Weather_App_Using_Kotlin.git
